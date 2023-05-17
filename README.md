@@ -13,3 +13,10 @@ Imagine yourself as the applicant for this role and perform the following task
 2. You need to run a SQL query to answer these requests. 
 3. The target audience of this dashboard is top-level management - hence you need to create a powerpoint presentation to show the insights.
 4. Be creative with your presentation.
+
+## Action
+1. Use MySQL database for storing the records
+2. Uses Advanced SQL concepts like **Joins, Subquery, CTEs, and Window function** to write complex queries to find out insight from the records.
+3. For automation use advance stuff like **Stored Procedures and Views**.
+4. Learn domain knowledge: fiscal year, quarters, profit & loss statements.
+5. Use Google and Chatgpt as mentor whereever find difficulty.
