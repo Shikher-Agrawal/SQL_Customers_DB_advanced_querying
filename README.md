@@ -1,4 +1,4 @@
-# Atliq-Hardware-Ad-Hoc-Insight
+# Consumer Goods - Ad-Hoc-Insight
 This project is done as part of Codebasics Data Analyst Bootcamp
 
 ## Problem Statement
