@@ -1,4 +1,4 @@
-# Consumer Goods - Ad-Hoc-Insight
+# SQL_Customers_DB_advanced_querying
 In this project, I've used intermediate to advanced level SQL queries to explore the **Brick & Mortar** and **E-Commerce** customers database of a company. I've used various SQL techniques such as Joins, Sub-queries, CTEs, Text functions and so on to analyze the data.
 
 ## Problem Statement
