@@ -1,5 +1,5 @@
 # Consumer Goods - Ad-Hoc-Insight
-This project is done as part of Codebasics Data Analyst Bootcamp
+In this project, I've used intermediate to advanced level SQL queries to explore the **Brick & Mortar** and **E-Commerce** customers database of a company. I've used various SQL techniques such as Joins, Sub-queries, CTEs, Text functions and so on to analyze the data.
 
 ## Problem Statement
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
